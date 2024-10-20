@@ -48,4 +48,4 @@ response = conversational_rag_bot(user_input)
 print("Bot:", response)
 
 ### RAG Chat bot Conversations
-![RAG bot](bot.jpg)
+![image alt](https://github.com/ahmadmilad2024/AAI520_Final_Project-/blob/main/bot.jpg?raw=true)
