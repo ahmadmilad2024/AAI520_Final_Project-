@@ -52,7 +52,7 @@ response = conversational_rag_bot(user_input)
 
 # Print the response
 print("Bot:", response)
-
+```
 ### RAG Chat bot Conversations
 | <h1 style="font-size:60px;">Rag bot Conversation</h1> |
 |:-:|
