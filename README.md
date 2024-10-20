@@ -54,5 +54,7 @@ response = conversational_rag_bot(user_input)
 print("Bot:", response)
 
 ### RAG Chat bot Conversations
-# Add image in the README.md file
-![image alt](https://github.com/ahmadmilad2024/AAI520_Final_Project-/blob/main/bot.jpg?raw=true)
+| <h1 style="font-size:60px;">Rag bot Conversation</h1> |
+|:-:|
+| <img src="images/bot.jpg" width="66%"> |
+
