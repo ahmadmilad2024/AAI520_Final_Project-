@@ -6,7 +6,7 @@ This project implements two conversational chatbot using Retrieval-Augmented Gen
 RAG Bot - https://usdaai200group5.azurewebsites.net/
 
 How to get access to the bot:
-1. User need to added to the Azure Subscription. Please reach out to jgullinkala@sandiego.edu to get access to the bot.
+1. User need to added to the Azure Subscription. Please reach out to jgullinkala@sandiego.edu to get access to the bot. For the final review purposes, we have added professor to the Azure Subscription. They just need to follow step 2 and 3 to access the bot.
 2. Once added to the Azure Subscription, You will receive an email from Azure with the subject "Default Directory invited you to access applications within their organization". Click on the Accept Invitation button in the email.
 3. Once you accept the invitation, you will be able to access the bot using the link provided above.
 
