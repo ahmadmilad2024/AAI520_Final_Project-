@@ -5,6 +5,12 @@ This project implements two conversational chatbot using Retrieval-Augmented Gen
 ## Bot Links:
 RAG Bot - https://usdaai200group5.azurewebsites.net/
 
+How to get access to the bot:
+1. User need to added to the Azure Subscription. Please reach out to jgullinkala@sandiego.edu to get access to the bot.
+2. Once added to the Azure Subscription, You will receive an email from Azure with the subject "Default Directory invited you to access applications within their organization". Click on the Accept Invitation button in the email.
+3. Once you accept the invitation, you will be able to access the bot using the link provided above.
+
+
 ## Project Structure
 
 - `notebooks/`
@@ -48,4 +54,5 @@ response = conversational_rag_bot(user_input)
 print("Bot:", response)
 
 ### RAG Chat bot Conversations
+# Add image in the README.md file
 ![image alt](https://github.com/ahmadmilad2024/AAI520_Final_Project-/blob/main/bot.jpg?raw=true)
