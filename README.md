@@ -43,3 +43,5 @@ response = conversational_rag_bot(user_input)
 
 # Print the response
 print("Bot:", response)
+
+### RAG Chat bot Conversations
