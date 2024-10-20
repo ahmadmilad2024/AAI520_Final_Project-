@@ -1,4 +1,4 @@
-# RAG ChatBot AII520 Group 5
+# AI Powered ChatBot AII520 Group 5
 
 This project implements two conversational chatbot using Retrieval-Augmented Generation (RAG)- Azure OpenAI services and second model with GPT Model and bot UI using github.io . The chatbot is designed to assist users in finding information, particularly for the Stanford University dataset.
 
