@@ -15,6 +15,7 @@ How to get access to the bot:
 
 - `notebooks/`
   - `RAG_ChatBot_AII520_Group5.ipynb`: Main notebook implementing the RAG chatbot.
+  - `GPT-2 Chatbot.ipynb`: Notebook for the GPT-2 Chatbot
 - `standford_questioner_dataset/`
   - `dev-v1.1.json`: Development dataset.
   - `train-v1.1.json`: Training dataset.
